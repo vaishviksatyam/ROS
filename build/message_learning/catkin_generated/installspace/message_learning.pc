@@ -1,0 +1,8 @@
+prefix=/home/vaishvik/catkin_ws/install
+
+Name: message_learning
+Description: Description of message_learning
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

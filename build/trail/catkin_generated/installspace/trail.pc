@@ -1,0 +1,8 @@
+prefix=/home/vaishvik/catkin_ws/install
+
+Name: trail
+Description: Description of trail
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 

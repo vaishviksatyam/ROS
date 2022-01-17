@@ -1,0 +1,2 @@
+message_learning:move_turtle:pub_subs:ros_essentials_cpp:services_learning
+-DCATKIN_DEVEL_PREFIX=/home/vaishvik/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/vaishvik/catkin_ws/install -G Unix Makefiles
